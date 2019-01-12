@@ -1,0 +1,43 @@
+To, Location
+a[0], PIN_N25
+a[1], PIN_N26
+a[2], PIN_P25
+a[3], PIN_AE14
+a[4], PIN_AF14
+a[5], PIN_AD13
+b[0], PIN_AC13
+b[1], PIN_C13
+b[2], PIN_B13
+b[3], PIN_A13
+b[4], PIN_N1
+b[5], PIN_P1
+power, PIN_G26
+operation[0], PIN_V2
+operation[1], PIN_U1
+operation[2], PIN_U4
+result[0], PIN_AE22
+result[1], PIN_AF22
+result[2], PIN_W19
+result[3], PIN_V18
+result[4], PIN_U18
+result[5], PIN_U17
+overflow, PIN_AD12
+negative, PIN_AE12
+
+LED1[0], PIN_AF10
+LED1[1], PIN_AB12
+LED1[2], PIN_AC12
+LED1[3], PIN_AD11
+LED1[4], PIN_AE11
+LED1[5], PIN_V14
+LED1[6], PIN_V13
+
+LED1[0], PIN_V20
+LED1[1], PIN_V21
+LED1[2], PIN_W21
+LED1[3], PIN_Y22
+LED1[4], PIN_AA24
+LED1[5], PIN_AA23
+LED1[6], PIN_AB24
+
+LED100, PIN_Y24

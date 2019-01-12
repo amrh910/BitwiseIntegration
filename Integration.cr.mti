@@ -1,0 +1,59 @@
+{C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity addertestbench
+-- Compiling architecture behav of addertestbench
+-- Loading entity adder
+
+} {} {}} {C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity integration
+-- Compiling architecture arch of integration
+
+} {} {}} {C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder
+-- Compiling architecture arch of adder
+
+} {} {}} {C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_seven.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_seven.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity seven
+-- Compiling architecture arch of seven
+
+} {} {}} {C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration_TESTBENCH_CSC343_fall2017.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration_TESTBENCH_CSC343_fall2017.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity test_intg
+-- Compiling architecture arch_test of test_intg
+
+} {} {}} {C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_bcd.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_bcd.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity bcd
+-- Compiling architecture arch of bcd
+
+} {} {}}

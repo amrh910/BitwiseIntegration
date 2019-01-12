@@ -1,0 +1,263 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.0
+Eadder
+Z0 w1508763573
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code
+Z5 8C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder.vhd
+Z6 FC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder.vhd
+l0
+L5
+VW93fz>Ohk;be3J9=gzEJN3
+!s100 ^lFm_`FSdD_:X2>V1UOOW3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1508766139
+!i10b 1
+Z9 !s108 1508766139.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder.vhd|
+Z11 !s107 C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+R3
+Z14 DEx4 work 5 adder 0 22 W93fz>Ohk;be3J9=gzEJN3
+l21
+L15
+VeWe:Z7R>z_gJEN8zL:[[92
+!s100 Kk6[8a>eV3CXCfeDig0I_0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eaddertestbench
+Z15 w1508763568
+R1
+R2
+R3
+R4
+Z16 8C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder_test.vhd
+Z17 FC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder_test.vhd
+l0
+L5
+V<14@OIf4mPR3QSW=92fH`3
+!s100 ;[i>4bK=`e];8iKj0fQA21
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder_test.vhd|
+Z19 !s107 C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_adder_test.vhd|
+!i113 1
+R12
+R13
+Abehav
+R14
+R1
+R2
+R3
+DEx4 work 14 addertestbench 0 22 <14@OIf4mPR3QSW=92fH`3
+l13
+L8
+V0NikR5j4]]g1o^G8Ag3l?3
+!s100 A0PW3ij;VdoK?bdXHRa;<3
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Ebcd
+Z20 w1508763562
+R1
+R2
+R3
+R4
+Z21 8C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_bcd.vhd
+Z22 FC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_bcd.vhd
+l0
+L5
+Vgk_cZPFml^^Il[2=02gNh0
+!s100 G2GoO?`>FY>a^`CFli<@D2
+R7
+32
+R8
+!i10b 1
+R9
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_bcd.vhd|
+Z24 !s107 C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_bcd.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 3 bcd 0 22 gk_cZPFml^^Il[2=02gNh0
+l16
+L14
+V?9hYTH=4>iMVHbaRBT4h20
+!s100 =>zfMEDA1Sh7Md::j1@eZ0
+R7
+32
+R8
+!i10b 1
+R9
+R23
+R24
+!i113 1
+R12
+R13
+Eintegration
+Z25 w1508764691
+Z26 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z27 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R2
+R3
+R4
+Z28 8C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration.vhd
+Z29 FC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration.vhd
+l0
+L6
+VldS?W2?ML;zKz1<KNNV:^3
+!s100 85H6?5OLakd@PB=13`V_L0
+R7
+32
+R8
+!i10b 1
+R9
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration.vhd|
+Z31 !s107 C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration.vhd|
+!i113 1
+R12
+R13
+Aarch
+R26
+R27
+R2
+R3
+DEx4 work 11 integration 0 22 ldS?W2?ML;zKz1<KNNV:^3
+l35
+L17
+VR@U5^;kf3b6mKTYhZ=j=z2
+!s100 <Y[ZdW@eMjULg=2Ii7fjo0
+R7
+32
+R8
+!i10b 1
+R9
+R30
+R31
+!i113 1
+R12
+R13
+Eseven
+Z32 w1508763542
+R26
+R27
+R2
+R3
+R4
+Z33 8C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_seven.vhd
+Z34 FC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_seven.vhd
+l0
+L6
+VA1k=lIYO34H_A9a<3OcIz1
+!s100 DHGPZCnBHQI^PGe:zezU42
+R7
+32
+R8
+!i10b 1
+R9
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_seven.vhd|
+Z36 !s107 C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_seven.vhd|
+!i113 1
+R12
+R13
+Aarch
+R26
+R27
+R2
+R3
+Z37 DEx4 work 5 seven 0 22 A1k=lIYO34H_A9a<3OcIz1
+l17
+L15
+Z38 VPi<BOPLV`gTkg8NjC75in3
+Z39 !s100 Un[dL>o`Bfz[mTfhg:=H<0
+R7
+32
+R8
+!i10b 1
+R9
+R35
+R36
+!i113 1
+R12
+R13
+Etest_intg
+Z40 w1508763550
+R26
+R27
+R2
+R3
+R4
+Z41 8C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration_TESTBENCH_CSC343_fall2017.vhd
+Z42 FC:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration_TESTBENCH_CSC343_fall2017.vhd
+l0
+L6
+VKen5h1ZKWFim<4zLNVgSn2
+!s100 [TJE>A;FT2mV1ZQH`<O8D1
+R7
+32
+R8
+!i10b 1
+R9
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration_TESTBENCH_CSC343_fall2017.vhd|
+Z44 !s107 C:/Users/Amr/OneDrive/School/8. Fall 2017/CSc 343 - Computer Organization/HAMMAM_Amr_CSC343_Fall2017/HAMMAM_CSC343_IntegrationProject_Fall2017/HAMMAM_Integration_code/Hammam_integration_TESTBENCH_CSC343_fall2017.vhd|
+!i113 1
+R12
+R13
+Aarch_test
+R26
+R27
+R2
+R3
+DEx4 work 9 test_intg 0 22 Ken5h1ZKWFim<4zLNVgSn2
+l28
+L9
+VjcohK8m9dUkoWzaO`aB0i3
+!s100 Y>TQWe<O7^TYfnVOI7dV:3
+R7
+32
+R8
+!i10b 1
+R9
+R43
+R44
+!i113 1
+R12
+R13
